@@ -1,0 +1,6 @@
+train: "C:\\Users\\Kim\\Desktop\\GitHub\\personal-project-2\\dataset\\train\\images"
+val: "C:\\Users\\Kim\\Desktop\\GitHub\\personal-project-2\\dataset\\val\\images"
+test: "C:\\Users\\Kim\\Desktop\\GitHub\\personal-project-2\\dataset\\test\\images"
+
+n2: 2
+names: ['unripe', 'ripe']
